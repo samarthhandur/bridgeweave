@@ -1,0 +1,4 @@
+requests
+pytest
+selenium
+html-testRunner
